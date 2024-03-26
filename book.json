@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "great_gatsby.jpg",
+      "review": "A timeless classic portraying the decadence and moral ambiguity of the Jazz Age.",
+      "totalPages": 180,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Classic", "Romance", "Drama"],
+      "publisher": "Scribner",
+      "yearOfPublishing": 1925
+    },
+    {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "to_kill_a_mockingbird.jpg",
+      "review": "A poignant exploration of racial injustice and moral growth in a small Southern town.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Social Justice", "Coming-of-age", "Southern Gothic"],
+      "publisher": "J. B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "1984.jpg",
+      "review": "A chilling dystopian novel warning of the dangers of totalitarianism and surveillance.",
+      "totalPages": 328,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Dystopian", "Political Satire", "Social Commentary"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "catcher_in_the_rye.jpg",
+      "review": "A raw and honest portrayal of teenage angst and alienation in post-war America.",
+      "totalPages": 224,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Coming-of-age", "Existentialism", "American Literature"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "the_hobbit.jpg",
+      "review": "An enchanting tale of adventure, friendship, and courage set in the fantasy world of Middle-earth.",
+      "totalPages": 310,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Quest", "Middle-earth"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1937
+    },
+    {
+      "bookId": 6,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "pride_and_prejudice.jpg",
+      "review": "A witty and romantic novel exploring the complexities of love, marriage, and social status.",
+      "totalPages": 279,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Romance", "Satire", "Regency Era"],
+      "publisher": "T. Egerton, Whitehall",
+      "yearOfPublishing": 1813
+    }
+  ]
